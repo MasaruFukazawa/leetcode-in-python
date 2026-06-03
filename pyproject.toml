@@ -34,3 +34,8 @@ exclude = ["leetcode/problem0001.py"]
 
 [tool.pytest.ini_options]
 addopts = "--ignore=tests/test_problem0001.py"
+
+[dependency-groups]
+dev = [
+    "pre-commit>=4.6.0",
+]
