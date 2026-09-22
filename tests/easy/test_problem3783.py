@@ -1,7 +1,7 @@
 #
 # problems : mirror-distance-of-an-integer
 #
-from leetcode.problem3783 import Solution
+from leetcode.easy.problem3783 import Solution
 
 
 def test_solution():

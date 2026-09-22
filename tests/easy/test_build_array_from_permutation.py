@@ -1,6 +1,6 @@
 # -*- coding:utf-8 -*-
 
-from leetcode.build_array_from_permutation import Solution
+from leetcode.easy.build_array_from_permutation import Solution
 
 
 def test_solution():

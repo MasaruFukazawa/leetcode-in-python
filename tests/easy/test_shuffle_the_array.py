@@ -1,6 +1,6 @@
 # -*- coding:utf-8 -*-
 
-from leetcode.shuffle_the_array import Solution
+from leetcode.easy.shuffle_the_array import Solution
 
 
 def test_solution():
