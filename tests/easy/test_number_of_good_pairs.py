@@ -1,6 +1,6 @@
 # -*- coding:utf-8 -*-
 
-from leetcode.number_of_good_pairs import Solution
+from leetcode.easy.number_of_good_pairs import Solution
 
 
 def test_solution():

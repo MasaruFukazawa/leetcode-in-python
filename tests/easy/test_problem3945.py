@@ -1,7 +1,7 @@
 #
 # problems : digit-frequency-score
 #
-from leetcode.problem3945 import Solution
+from leetcode.easy.problem3945 import Solution
 
 
 def test_solution():

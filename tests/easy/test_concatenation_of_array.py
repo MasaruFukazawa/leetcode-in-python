@@ -1,6 +1,6 @@
 # -*- coding:utf-8 -*-
 
-from leetcode.concatenation_of_array import Solution
+from leetcode.easy.concatenation_of_array import Solution
 
 
 def test_solution():

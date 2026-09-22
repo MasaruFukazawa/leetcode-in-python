@@ -1,6 +1,6 @@
 # -*- coding:utf-8 -*-
 
-from leetcode.find_words_containing_character import Solution
+from leetcode.easy.find_words_containing_character import Solution
 
 
 def test_solution():

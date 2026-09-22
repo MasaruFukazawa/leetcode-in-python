@@ -1,7 +1,7 @@
 #
 # problems : find-the-degree-of-each-vertex
 #
-from leetcode.problem3512 import Solution
+from leetcode.easy.problem3512 import Solution
 
 
 def test_solution():

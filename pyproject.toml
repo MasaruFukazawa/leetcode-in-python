@@ -20,7 +20,7 @@ build-backend = "hatchling.build"
 packages = ["leetcode"]
 
 [tool.ruff]
-extend-exclude = ["leetcode/problem0001.py"]
+extend-exclude = ["leetcode/easy/problem0001.py"]
 
 [tool.ruff.lint]
 select = ["E", "F", "I", "S"]
@@ -30,10 +30,10 @@ ignore = ["E265", "E501", "E741"]
 "tests/**" = ["S101"]
 
 [tool.ty.src]
-exclude = ["leetcode/problem0001.py"]
+exclude = ["leetcode/easy/problem0001.py"]
 
 [tool.pytest.ini_options]
-addopts = "--ignore=tests/test_problem0001.py"
+addopts = "--ignore=tests/easy/test_problem0001.py"
 
 [dependency-groups]
 dev = [

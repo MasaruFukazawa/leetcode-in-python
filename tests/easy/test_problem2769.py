@@ -1,7 +1,7 @@
 #
 # problems : find-the-maximum-achievable-number
 #
-from leetcode.problem2769 import Solution
+from leetcode.easy.problem2769 import Solution
 
 
 def test_solution():
