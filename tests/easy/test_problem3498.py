@@ -1,7 +1,7 @@
 #
 # problems : Reverse Degree of a String
 #
-from leetcode.problem3498 import Solution
+from leetcode.easy.problem3498 import Solution
 
 
 def test_solution():

@@ -1,6 +1,6 @@
 # -*- coding:utf-8 -*-
 
-from leetcode.problem3712.solution import Solution
+from leetcode.easy.problem3712.solution import Solution
 
 
 def test_solution():

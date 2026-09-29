@@ -1,6 +1,6 @@
 # -*- coding:utf-8 -*-
 
-from leetcode.convert_the_temperature import Solution
+from leetcode.easy.convert_the_temperature import Solution
 
 
 def test_solution():

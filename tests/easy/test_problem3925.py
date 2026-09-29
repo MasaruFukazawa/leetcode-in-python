@@ -1,7 +1,7 @@
 #
 # problems : concatenate-array-with-reverse
 #
-from leetcode.problem3925 import Solution
+from leetcode.easy.problem3925 import Solution
 
 
 def test_solution():

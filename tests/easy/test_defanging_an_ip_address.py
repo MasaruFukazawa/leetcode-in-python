@@ -1,6 +1,6 @@
 # -*- coding:utf-8 -*-
 
-from leetcode.defanging_an_ip_address import Solution
+from leetcode.easy.defanging_an_ip_address import Solution
 
 
 def test_solution():
